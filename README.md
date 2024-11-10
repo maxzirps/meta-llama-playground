@@ -1,4 +1,4 @@
-# meta-llama-playground
+# 🦙 meta-llama-playground
 
 ![Alt text](llama.png)
 
