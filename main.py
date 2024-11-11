@@ -10,8 +10,8 @@ pipe = pipeline(
 )
 
 messages = [
-    {"role": "system", "content": "You are a pirate chatbot who always responds in pirate speak!"},
-    {"role": "user", "content": "Who are you?"},
+    {"role": "system", "content": "You strive to answer the question as truthfully, precisely and concisely as possible."},
+    {"role": "user", "content": "What is healthier, and apple or chocolate?"},
 ]
 outputs = pipe(
     messages,
